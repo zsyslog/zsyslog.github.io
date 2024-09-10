@@ -1,0 +1,127 @@
+body {
+	background: black;
+	font-family: 'Libre Baskerville', serif;
+}
+
+.main-container{
+	margin-top: 80px;
+}
+
+p {
+	text-align: justify;
+}
+
+.resume-header, .resume-content {
+	background-image: url(/images/bg.gif);
+}
+.resume-header {
+	text-align: center
+}
+
+.resume-photo {
+	padding: 5px;
+	background: black;
+	margin: -70px auto auto auto;
+}
+
+h1, h2, h3, h4 {
+	color: #f1684e;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 45px;
+}
+
+h2, h3, h4 {
+	color: black;
+}
+
+p {
+	font-family: 'Libre Baskerville', serif;
+}
+
+ul {
+	list-style-type: none;
+	padding: 5px;
+}
+
+li {
+	margin-bottom: 5px;
+}
+
+.progress {
+	height: 10px;
+}
+
+.reverse{
+	color: white;
+	background: #f1684e;
+	padding: 4px 6px;
+}
+
+.rounded {
+	border-radius: 5px;
+	font-family: 'Archivo Narrow', sans-serif;
+}
+
+.font-archive {
+	font-family: 'Archivo Narrow', sans-serif;
+}
+.font-libre {
+	font-family: 'Libre Baskerville', serif;
+}
+
+div.skills ul li {
+	margin-bottom: 20px;
+}
+
+ul.tag-list li {
+	background: #f1684e;
+	color: white;
+	padding: 2px 6px;
+	border-radius: 5px;
+	margin: 2px;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: 'Archivo Narrow', sans-serif;
+
+}
+
+.resume-header h1 {
+
+}
+.resume-header h2 {
+	margin-top: 10px;
+	margin-bottom: 25px;
+}
+h5.range {
+	font-size: 12px;
+}
+
+.resume-header .basic-info {
+	padding-bottom: 25px;
+	border-bottom: 1px solid #ddd;
+}
+.basic-info {
+	width: 95%;
+	margin: 0 auto;
+}
+.basic-info div.basic-info-item {
+	width: 25%;
+	text-align: center;
+}
+
+.work-item ul {
+	border: 1px solid #CCC;
+	border-radius: 10px;
+}
+.work-item h4 span.fa-link {
+	margin-left: 20px;
+}
+.resume-footer{
+	height: 100px;
+	text-align: center;
+	padding: 30px;
+}

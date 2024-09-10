@@ -1,0 +1,253 @@
+{
+  "basics": {
+    "name": "Juan Carlos Jiménez Jamett",
+    "label": "CIO / Ingeniero en Computación / Developer",
+    "picture": "https://raw.githubusercontent.com/zsyslog/resume/master/images/profile.png",
+    "email": "jc.jimenez.jamett@gmail.com",
+    "phone": "+56 9 7707 9917",
+    "website": "http://jcjimenez.me/resume",
+    "summary": "Ingeniero Informático de la Facultad de Ciencias Empresariales de la Universidad de Bío Bío. Con una carrera iniciada desarrollando para CELADE de Naciones Unidas, sumo experiencia profesional tanto en el público como en el privado con foco en el desarrollo de proyectos TI y Transformación Digital en el Estado. Fui Sysadmin y luego Jefe de Soporte Técnico en el Servicio de Salud Metropolitano Oriente. En Segpres me desempeñé como líder de proyectos TI en la Unidad de Modernización para luego ser Jefe de Desarrollo de la División de Gobierno Digital. Además soy coautor de la Guía de Desarrollo de Software del Estado.",
+    "location": {
+      "address": "Av. Las Pircas 982",
+      "city": "Nos, San Bernardo",
+      "region": "Región Metropolitana",
+      "countryCode": "CL",
+      "postalCode": "8082439"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Juan C. Jiménez Jamett",
+        "url": "https://www.linkedin.com/profile/view?id=151943423"
+      },
+      {
+        "network": "Github",
+        "username": "jc_jimenez",
+        "url": "https://github.com/zsyslog/resume"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Subsecretaría de la Cultura y de las Artes",
+      "position": "Jefe de Tecnologías de la Información y las Comunicaciones",
+      "website": "https://cultura.gob.cl",
+      "startDate": "2019-01-09",
+      "endDate": "",
+      "summary": "Jefe del área responsable de generar y mantener las herramientas tecnológicas del ministerio, además de elaborar y administrar presupuestos y coordinar equipos técnicos. CIO",
+      "highlights": [
+        "CIO",
+        "Gestión de Desarrollo de Software Institucional",
+        "Gestión del Equipo de Soporte Tecnico y Mesa de Ayuda a usuarios internos de la institución",
+        "Encargado de Transformación Digital de la Subsecretaría de las Culturas y de las Artes",
+        "Gestión de riesgos de la información y Gobernanza de TI",
+        "Planificación estratégica TI y Gestión Presupuestaria"
+      ] 
+    }, 
+  {
+      "company": "División de Gobierno Digital (DGD), Ministerio Secretaría General de la Presidencia",
+      "position": "Coordinador del Area de Desarrollo",
+      "website": "http://digital.gob.cl",
+      "startDate": "2015-09-23",
+      "endDate": "2019-01-09",
+      "summary": "Responsable de coordinar las tareas del equipo de desarrollo para proyectos TI",
+      "highlights": [
+        "Jefe de desarrollo",
+        "Líder de proyecto para transformar el sitio gob.cl en una plataforma integradora con servicios del estado",
+        "Líder de proyecto para desarrollo de prototipo funcional de módulos de autoatención para la red de servicios ChileaAtiende",
+        "Líder de proyecto para desarrollo portal de Datos Abiertos http://datos.gob.cl con CKAN",
+        "Líder de proyecto para desarrollo de la plataforma de seguimiento de la Agenda Digital 2020 http://agendadigital.gob.cl",
+        "Ingeniería de sistemas y mantención de infraestructura en la nube con AWS"
+      ]
+    },
+    {
+      "company": "El Mercurio SAP",
+      "position": "Ingeniero de Proyectos",
+      "website": "http://www.emol.com",
+      "startDate": "2011-10-01",
+      "endDate": "2015-09-20",
+      "summary": "Responsable y creador del BackEnd y FrontEnd de tv.emol.com (EmolTV). Involucrado en proyectos BackEnd y FrontEnd de  Automoviles.emol.com, Economicos.cl, Restaurantes.emol.com y tv.emol.com. Administrador del CMS de Guioteca.com.  Tareas básicas de Administación de Sistemas",
+      "highlights": [
+        "Desarrollo del videoplayer de EmolTV (Emol.com), Website, Backend y Backoffice",
+        "Desarrollo del sistema de transcodificación de videos con NodeJS y ffmpeg",
+        "Mejoras en los servicios de búsqueda de Emol.com usando Elasticsearch, Solr y MongoDB"
+      ]
+    },
+    {
+      "company": "Servicio de Salud Metropolitano Oriente",
+      "position": "Ingeniero de Sistemas",
+      "website": "http://www.saludoriente.cl",
+      "startDate": "2002-09-01",
+      "endDate": "2011-07-30",
+      "summary": "Responsable de Ingeniería de Sistemas para el Departamento de Informática en plataformas Unix AIX con bases de datos DB2, Linux RedHat con PostgreSQL, CentOS y Debian con MySQL e IBM AS/400. Labores de Formulación y Evaluación de proyectos  TI y networking, desarrollando bases técnicas para licitaciones públicas y su posterior validación y evaluación.",
+      "highlights": [
+        "Jefe de Soporte Técnico en periodo 2008 al 2011",
+        "Creación de la red de datos entre hospitales, consultorios, dirección del Servicio de Salud. Posteriormente integrado a la red nacional del Ministerio de Salud.",
+        "Integración de servicios informáticos internos con los servicios de la red AUGE/GES",
+        "Desarrollo de Intranet corporativa y Website"
+      ]
+    },
+    {
+      "company": "CELADE - Naciones Unidas",
+      "position": "Programador",
+      "website": "http://www.cepal.org/celade/",
+      "startDate": "2001-10-01",
+      "endDate": "2002-09-30",
+      "summary": "Programador y analista. Encargado de generar reportes demográficos con datos de encuestas y censos de latinoamérica",
+      "highlights": [
+        "Participación en 2 publicaciones de CELADE sobre enevejecimiento en latinoamérica",
+        "Desarrollo de modulos de software para administrar Bases de Datos jerárquicas con REDATAM+ (www.cepal.org/redatam/)"
+      ]
+    },
+    {
+      "company": "3DSpirit Marketing (freelance)",
+      "position": "Desarrollador",
+      "website": "http://www.3dspiritmktg.com",
+      "startDate": "2010",
+      "endDate": "",
+      "summary": "Desarrollador de soluciones webapp para marketing, virales y BTL",
+      "highlights": [
+        "Varios juegos y concursos virales conectados con Facebook",
+        "Integración de realidad aumentada con redes sociales en vitrinas interactivas otros tipos de BTL",
+        "Integraciones de Webpay (Transbank) y proceso de certificación para sitios de clientes"
+      ]
+    },
+    {
+      "company": "La Copucha (freelance)",
+      "position": "Sysadmin y Desarrollador",
+      "website": "http://www.lacopucha.com",
+      "startDate": "2011",
+      "endDate": "2012",
+      "summary": "Configuración de servidores y servicios en línea. Mantención del sitio Wordpress",
+      "highlights": [
+        "Configuración de servidor para soportar alto tráfico con Varnish, Nginx y Haproxy",
+        "Desarrollo backend con Nodejs y websockets para servicios realtime"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad del Bío Bío",
+      "area": "Ingeniería en Computación e Informática",
+      "studyType": "",
+      "startDate": "1996",
+      "endDate": "2001",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Técnica Federico Santa María",
+      "area": "Ingeniería Civil Industrial - Incompleto",
+      "studyType": "",
+      "startDate": "2008",
+      "endDate": "2010",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Back-End Development",
+      "level": "80",
+      "keywords": [
+        "NodeJS",
+        "PHP",
+        "ZEND",
+        "SQL",
+        "NoSQL",
+        "GIT+GitHub+Gitlab",
+        "Docker+Dockerhub",
+        "Bigdata",
+        "MongoDB",
+        "Elasticsearch",
+        "Solr"
+      ]
+    },
+    {
+      "name": "Front-End Development",
+      "level": "90",
+      "keywords": [
+        "HTML5",
+        "CSS",
+        "Javascript",
+        "AngularJS",
+        "jQuery",
+        "Bootstrap",
+        "GIT+GitHub",
+        "SEO"
+      ]
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "80",
+      "keywords": [
+        "Amazon AWS",
+        "Rackspace Cloud",
+        "Linode",
+        "DigitalOcean"
+      ]
+    },
+    {
+      "name": "Ingeniería de Sistemas",
+      "level": "70",
+      "keywords": [
+        "Linux",
+        "Unix",
+        "OSX",
+        "Windows",
+        "Docker",
+        "Nginx",
+        "Varnish",
+        "CI+CD",
+        "Apache",
+        "FastCGI",
+        "Oracle Virtualbox"
+      ]
+    },
+    {
+      "name": "Social Networks",
+      "level": "65",
+      "keywords": [
+        "Facebook Developers API",
+        "Twitter API",
+        "Instagram API",
+        "OAuth2",
+        "OpenID Connect"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Lenguaje Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Nivel Básico"
+    }
+  ],
+  "interests": [{
+    "name": "Especialización",
+    "keywords": [
+      "Transformación Digital",
+      "Estrategia Digital", 
+      "Trabajo en equipo",
+      "Liderazgo",
+      "Identificación de soluciones técnicas",
+      "Corrección de errores",
+      "Diseño y desarrollo de soluciones",
+      "Desarrollo ágil",
+      "Cloud Computing",
+      "Investigación"
+    ]
+  }],
+  "references": [
+    {
+      "name": "Kareen Schramm",
+      "reference": "Coordinadora de Políticas y Estudios, División de Gobierno Digital. kschramm at minsegpres.gob.cl"
+    }
+  ]
+}
