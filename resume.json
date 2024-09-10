@@ -111,18 +111,6 @@
         "Integración de realidad aumentada con redes sociales en vitrinas interactivas otros tipos de BTL",
         "Integraciones de Webpay (Transbank) y proceso de certificación para sitios de clientes"
       ]
-    },
-    {
-      "company": "La Copucha (freelance)",
-      "position": "Sysadmin y Desarrollador",
-      "website": "http://www.lacopucha.com",
-      "startDate": "2011",
-      "endDate": "2012",
-      "summary": "Configuración de servidores y servicios en línea. Mantención del sitio Wordpress",
-      "highlights": [
-        "Configuración de servidor para soportar alto tráfico con Varnish, Nginx y Haproxy",
-        "Desarrollo backend con Nodejs y websockets para servicios realtime"
-      ]
     }
   ],
   "volunteer": [],
