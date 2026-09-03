@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Juan Carlos Jiménez Jamett",
-    "label": "CIO / Ingeniero en Computación / Developer",
+    "label": "CIO | Jefatura TIC · Gestión de Recursos · Transformación Digital",
     "picture": "https://raw.githubusercontent.com/zsyslog/resume/master/images/profile.png",
     "email": "jc.jimenez.jamett@gmail.com",
     "phone": "+56 9 7707 9917",
     "website": "http://jcjimenez.me/resume",
-    "summary": "Soy Ingeniero Informático egresado de la Facultad de Ciencias Empresariales de la Universidad de Bío Bío, con amplia experiencia tanto en el sector público como en el privado. Inicié mi carrera en CELADE, Naciones Unidas, y he liderado proyectos clave en el ámbito de TI y Transformación Digital en el Estado. Mi trayectoria incluye roles como Administrador de Sistemas y Jefe de Soporte Técnico en el Servicio de Salud Metropolitano Oriente. Posteriormente, en Segpres, lideré proyectos TI en la Unidad de Modernización y fui Jefe de Desarrollo en la División de Gobierno Digital. Además, soy coautor de la Guía de Desarrollo de Software del Estado del 2018. Hoy lidero en mi área, en la Subsecreatría de Culturas y las Artes",
+    "summary": "Ingeniero en Computación e Informática con más de 20 años de trayectoria liderando áreas de Tecnología en el sector público y privado, incluyendo Naciones Unidas, el Ministerio Secretaría General de la Presidencia y la Subsecretaría de las Culturas y las Artes, donde me desempeño actualmente como CIO. Experiencia consolidada en jefatura de equipos multidisciplinarios, administración de presupuestos y recursos TI, gobernanza y gestión de riesgos, y liderazgo de procesos de Transformación Digital en el Estado. Coautor de la Guía de Desarrollo de Software del Estado (2018). Combino visión estratégica y de gestión con una base técnica sólida, lo que me permite traducir objetivos institucionales en proyectos ejecutables, equipos de alto desempeño y resultados medibles.",
     "location": {
       "address": "Av. Las Pircas 982",
       "city": "Nos, San Bernardo",
@@ -30,34 +30,36 @@
   "work": [
     {
       "company": "Subsecretaría de la Cultura y de las Artes",
-      "position": "Jefe de Tecnologías de la Información y las Comunicaciones",
+      "position": "Jefe de Tecnologías de la Información y las Comunicaciones (CIO)",
       "website": "https://cultura.gob.cl",
       "startDate": "2019-01-09",
       "endDate": "",
-      "summary": "Jefe del área responsable de generar y mantener las herramientas tecnológicas del ministerio, además de elaborar y administrar presupuestos y coordinar equipos técnicos. CIO",
+      "summary": "CIO de la Subsecretaría, a cargo de la estrategia, presupuesto y operación TIC del ministerio. Lidero la definición e implementación de la hoja de ruta de Transformación Digital institucional, la administración de recursos humanos, tecnológicos y financieros del área, y la relación con proveedores y organismos técnicos del Estado.",
       "highlights": [
-        "CIO",
-        "Gestión de Desarrollo de Software Institucional",
-        "Gestión del Equipo de Soporte Tecnico y Mesa de Ayuda a usuarios internos de la institución",
-        "Encargado de Transformación Digital de la Subsecretaría de las Culturas y de las Artes",
-        "Gestión de riesgos de la información y Gobernanza de TI",
-        "Planificación estratégica TI y Gestión Presupuestaria"
+        "Jefatura y gestión de equipo TIC multidisciplinario (desarrollo, soporte, infraestructura y mesa de ayuda)",
+        "Administración y ejecución del presupuesto anual de TI, incluyendo planificación, licitaciones y control de gasto",
+        "Liderazgo de la Transformación Digital de la Subsecretaría: definición de estrategia, priorización de iniciativas y gestión del cambio",
+        "Gobernanza de TI y gestión de riesgos de la información, alineadas a estándares del Estado",
+        "Planificación estratégica TI: definición de objetivos, indicadores de gestión y seguimiento de resultados",
+        "Gestión de la relación con proveedores, licitaciones públicas y contratos de servicios tecnológicos",
+        "Representación del área ante autoridades y otras instituciones del Estado en materias de TI y digitalización"
       ] 
     }, 
   {
       "company": "División de Gobierno Digital (DGD), Ministerio Secretaría General de la Presidencia",
-      "position": "Coordinador del Area de Desarrollo",
+      "position": "Jefe de Desarrollo / Coordinador del Área de Desarrollo",
       "website": "http://digital.gob.cl",
       "startDate": "2015-09-23",
       "endDate": "2019-01-09",
-      "summary": "Responsable de coordinar las tareas del equipo de desarrollo para proyectos TI",
+      "summary": "Jefatura del equipo de desarrollo de la División de Gobierno Digital, responsable de la coordinación de personas, priorización de proyectos y administración de recursos técnicos para iniciativas clave de Transformación Digital del Estado.",
       "highlights": [
-        "Jefe de desarrollo",
-        "Líder de proyecto para transformar el sitio gob.cl en una plataforma integradora con servicios del estado",
-        "Líder de proyecto para desarrollo de prototipo funcional de módulos de autoatención para la red de servicios ChileaAtiende",
-        "Líder de proyecto para desarrollo portal de Datos Abiertos http://datos.gob.cl con CKAN",
-        "Líder de proyecto para desarrollo de la plataforma de seguimiento de la Agenda Digital 2020 http://agendadigital.gob.cl",
-        "Ingeniería de sistemas y mantención de infraestructura en la nube con AWS"
+        "Jefe de Desarrollo: liderazgo de equipo técnico y coordinación de carga de trabajo y prioridades entre múltiples proyectos simultáneos",
+        "Dirección del proyecto de transformación del sitio gob.cl en plataforma integradora de servicios del Estado",
+        "Liderazgo del proyecto de prototipo funcional para módulos de autoatención de la red ChileAtiende",
+        "Dirección del proyecto de desarrollo del portal de Datos Abiertos (datos.gob.cl) sobre CKAN",
+        "Liderazgo del proyecto de plataforma de seguimiento de la Agenda Digital 2020 (agendadigital.gob.cl)",
+        "Coautor de la Guía de Desarrollo de Software del Estado (2018), estableciendo estándares para equipos de desarrollo público",
+        "Gestión de infraestructura cloud (AWS) y coordinación con proveedores de servicios tecnológicos"
       ]
     },
     {
@@ -66,25 +68,28 @@
       "website": "http://www.emol.com",
       "startDate": "2011-10-01",
       "endDate": "2015-09-20",
-      "summary": "Responsable y creador del BackEnd y FrontEnd de tv.emol.com (EmolTV). Involucrado en proyectos BackEnd y FrontEnd de  Automoviles.emol.com, Economicos.cl, Restaurantes.emol.com y tv.emol.com. Administrador del CMS de Guioteca.com.  Tareas básicas de Administación de Sistemas",
+      "summary": "Responsable técnico y líder de proyecto para EmolTV (tv.emol.com), coordinando su desarrollo end-to-end. Participación en múltiples proyectos digitales del grupo, con responsabilidades de administración de sistemas.",
       "highlights": [
-        "Desarrollo del videoplayer de EmolTV (Emol.com), Website, Backend y Backoffice",
-        "Desarrollo del sistema de transcodificación de videos con NodeJS y ffmpeg",
-        "Mejoras en los servicios de búsqueda de Emol.com usando Elasticsearch, Solr y MongoDB"
+        "Liderazgo técnico y de proyecto para EmolTV: definición de alcance, desarrollo y puesta en producción",
+        "Coordinación con equipos de producto y contenido para proyectos de Automoviles.emol.com, Economicos.cl, Restaurantes.emol.com",
+        "Administración de plataforma CMS de Guioteca.com",
+        "Gestión de infraestructura y administración de sistemas para servicios de alto tráfico"
       ]
     },
     {
       "company": "Servicio de Salud Metropolitano Oriente",
-      "position": "Ingeniero de Sistemas",
+      "position": "Jefe de Soporte Técnico / Ingeniero de Sistemas",
       "website": "http://www.saludoriente.cl",
       "startDate": "2002-09-01",
       "endDate": "2011-07-30",
-      "summary": "Responsable de Ingeniería de Sistemas para el Departamento de Informática en plataformas Unix AIX con bases de datos DB2, Linux RedHat con PostgreSQL, CentOS y Debian con MySQL e IBM AS/400. Labores de Formulación y Evaluación de proyectos  TI y networking, desarrollando bases técnicas para licitaciones públicas y su posterior validación y evaluación.",
+      "summary": "Jefatura de Soporte Técnico (2008-2011) y responsable de Ingeniería de Sistemas del Departamento de Informática, liderando la administración de infraestructura crítica de salud y la formulación de proyectos TI para licitación pública.",
       "highlights": [
-        "Jefe de Soporte Técnico en periodo 2008 al 2011",
-        "Creación de la red de datos entre hospitales, consultorios, dirección del Servicio de Salud. Posteriormente integrado a la red nacional del Ministerio de Salud.",
-        "Integración de servicios informáticos internos con los servicios de la red AUGE/GES",
-        "Desarrollo de Intranet corporativa y Website"
+        "Jefe de Soporte Técnico (2008-2011): liderazgo de equipo de soporte y gestión de la mesa de ayuda para la red asistencial",
+        "Administración de recursos y planificación de infraestructura TI multiplataforma (AIX/DB2, Linux/PostgreSQL, IBM AS/400)",
+        "Formulación y evaluación de proyectos TI, incluyendo bases técnicas para licitaciones públicas y evaluación de ofertas",
+        "Liderazgo del proyecto de creación de la red de datos entre hospitales, consultorios y dirección del Servicio de Salud, posteriormente integrada a la red nacional del Ministerio de Salud",
+        "Gestión de la integración de servicios internos con la red AUGE/GES",
+        "Dirección del desarrollo de la Intranet corporativa y sitio institucional"
       ]
     },
     {
@@ -93,10 +98,10 @@
       "website": "http://www.cepal.org/celade/",
       "startDate": "2001-10-01",
       "endDate": "2002-09-30",
-      "summary": "Programador y analista. Encargado de generar reportes demográficos con datos de encuestas y censos de latinoamérica",
+      "summary": "Programador y analista, a cargo de la generación de reportes demográficos con datos de encuestas y censos de Latinoamérica.",
       "highlights": [
-        "Participación en 2 publicaciones de CELADE sobre enevejecimiento en latinoamérica",
-        "Desarrollo de modulos de software para administrar Bases de Datos jerárquicas con REDATAM+ (www.cepal.org/redatam/)"
+        "Participación en 2 publicaciones de CELADE sobre envejecimiento en Latinoamérica",
+        "Desarrollo de módulos de software para administrar bases de datos jerárquicas con REDATAM+"
       ]
     },
     {
@@ -105,11 +110,11 @@
       "website": "http://www.3dspiritmktg.com",
       "startDate": "2010",
       "endDate": "",
-      "summary": "Desarrollador de soluciones webapp para marketing, virales y BTL",
+      "summary": "Desarrollador de soluciones webapp para marketing, campañas virales y BTL.",
       "highlights": [
-        "Varios juegos y concursos virales conectados con Facebook",
-        "Integración de realidad aumentada con redes sociales en vitrinas interactivas otros tipos de BTL",
-        "Integraciones de Webpay (Transbank) y proceso de certificación para sitios de clientes"
+        "Desarrollo de juegos y concursos virales conectados con Facebook",
+        "Integración de realidad aumentada con redes sociales en vitrinas interactivas y otros formatos BTL",
+        "Integración de Webpay (Transbank) y gestión del proceso de certificación para sitios de clientes"
       ]
     }
   ],
@@ -135,75 +140,68 @@
     }
   ],
   "awards": [],
-  "publications": [],
+  "publications": [
+    {
+      "name": "Guía de Desarrollo de Software del Estado",
+      "publisher": "División de Gobierno Digital, Ministerio Secretaría General de la Presidencia",
+      "releaseDate": "2018",
+      "summary": "Coautor de la guía que establece estándares y buenas prácticas para el desarrollo de software en organismos del Estado de Chile."
+    }
+  ],
   "skills": [
     {
-      "name": "Back-End Development",
-      "level": "80",
+      "name": "Jefatura y Gestión de Equipos",
+      "level": "95",
       "keywords": [
-        "NodeJS",
-        "PHP",
-        "ZEND",
-        "SQL",
-        "NoSQL",
-        "GIT+GitHub+Gitlab",
-        "Docker+Dockerhub",
-        "Bigdata",
-        "MongoDB",
-        "Elasticsearch",
-        "Solr"
+        "Liderazgo de equipos multidisciplinarios",
+        "Gestión del desempeño",
+        "Coordinación de proyectos",
+        "Gestión del cambio",
+        "Formación y desarrollo de equipos"
       ]
     },
     {
-      "name": "Front-End Development",
+      "name": "Gestión de Recursos y Administración TI",
       "level": "90",
       "keywords": [
-        "HTML5",
-        "CSS",
-        "Javascript",
-        "AngularJS",
-        "jQuery",
-        "Bootstrap",
-        "GIT+GitHub",
-        "SEO"
+        "Planificación y ejecución presupuestaria",
+        "Gestión de contratos y licitaciones públicas",
+        "Gestión de proveedores",
+        "Gobernanza de TI",
+        "Gestión de riesgos de la información"
       ]
     },
     {
-      "name": "Cloud Computing",
+      "name": "Transformación Digital y Estrategia",
+      "level": "90",
+      "keywords": [
+        "Definición de hojas de ruta digitales",
+        "Modernización del Estado",
+        "Planificación estratégica TI",
+        "Gestión de indicadores y resultados",
+        "Innovación pública"
+      ]
+    },
+    {
+      "name": "Ingeniería de Sistemas y Cloud Computing",
       "level": "80",
       "keywords": [
         "Amazon AWS",
-        "Rackspace Cloud",
-        "Linode",
-        "DigitalOcean"
-      ]
-    },
-    {
-      "name": "Ingeniería de Sistemas",
-      "level": "70",
-      "keywords": [
-        "Linux",
-        "Unix",
-        "OSX",
-        "Windows",
+        "Linux/Unix",
         "Docker",
-        "Nginx",
-        "Varnish",
-        "CI+CD",
-        "Apache",
-        "FastCGI",
-        "Oracle Virtualbox"
+        "CI/CD",
+        "Arquitectura de infraestructura"
       ]
     },
     {
-      "name": "Social Networks",
-      "level": "65",
+      "name": "Desarrollo de Software (base técnica)",
+      "level": "75",
       "keywords": [
-        "Facebook Developers API",
-        "Twitter API",
-        "Instagram API",
-        "OAuth2",
-        "OpenID Connect"
+        "NodeJS",
+        "PHP",
+        "SQL/NoSQL",
+        "Elasticsearch/Solr/MongoDB",
+        "Git+GitHub+GitLab"
       ]
     }
   ],
@@ -220,16 +218,14 @@
   "interests": [{
     "name": "Especialización",
     "keywords": [
+      "Liderazgo y jefatura de equipos",
       "Transformación Digital",
-      "Estrategia Digital", 
+      "Gestión de recursos y presupuestos públicos",
+      "Estrategia y gobernanza TI",
+      "Modernización del Estado",
       "Trabajo en equipo",
-      "Liderazgo",
-      "Identificación de soluciones técnicas",
-      "Corrección de errores",
-      "Diseño y desarrollo de soluciones",
       "Desarrollo ágil",
-      "Cloud Computing",
-      "Investigación"
+      "Cloud Computing"
     ]
   }],
   "references": [
